@@ -1,0 +1,20 @@
+h1{
+    color: turquoise;
+    background-color: black;
+    text-decoration: underline;
+    text-align: center;
+}
+
+body{
+    background-image: url("https://truyen2u.net/cover/images/a8436a33fce5b76ae9ae09499f727763e5a10bb2/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f4a703468716b6c6b4949773737773d3d2d3932393937343935342e3136326262646665613833306236666638393931323534393736332e6a7067")
+}
+
+p{
+    opacity: 0.7;
+}
+#img0{
+    opacity: 0.5;
+}
+#img0:hover{
+    opacity: 1.0;
+}
